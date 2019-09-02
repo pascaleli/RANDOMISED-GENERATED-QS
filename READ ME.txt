@@ -1,4 +1,6 @@
 1. DOWNLOAD AND INSTALL A SERVER (BITNAMI WAMPSTACK)
-2. COPY FILE NAMED " RANDOMIZED GENERATED QUESTIONS" INTO C:\Bitnami\wampstack-5.6.29-0\apache2\htdocs 
-3. COPY FILE "ONLINE EXAM SYSTEM" INTO C:\Bitnami\wampstack-5.6.29-0\mysql\data
-4. OPEN BROWSER TYPE LOCALHOST INTO THE URL BOX AND SELECT " RANDOMIZED GENERATED QUESTIONS".
+2. Clone all files with extemssion ".php" and the ".htaccess" file from this repository into your own created folder " RANDOMIZED GENERATED QUESTIONS"
+Get all Bootstrap files ready in the " RANDOMIZED GENERATED QUESTIONS" folder with "include" folder containing the "header.php"
+3. COPY FILE NAMED " RANDOMIZED GENERATED QUESTIONS" INTO C:\Bitnami\wampstack-5.6.29-0\apache2\htdocs 
+4. COPY FILE "ONLINE EXAM SYSTEM" INTO C:\Bitnami\wampstack-5.6.29-0\mysql\data
+5. OPEN BROWSER TYPE LOCALHOST INTO THE URL BOX AND SELECT " RANDOMIZED GENERATED QUESTIONS".
